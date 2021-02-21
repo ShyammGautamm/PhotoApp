@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Text, View } from 'react-native'
+import { Text, View, InputAccessoryView } from 'react-native'
 
 import FirstPageView from './FirstPage';
 
